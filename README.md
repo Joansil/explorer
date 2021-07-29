@@ -5,7 +5,7 @@
   Please read the docs inside in the modules. That explain all functions and how use it. 
 
 ## Installation
-  Please run: 'mix deps.get' to install all dependecies and ''mix.credo''
+  Please run: 'mix deps.get' to install all dependecies and 'mix.credo'
   
   Run using IEX: 'iex -S mix'
   
